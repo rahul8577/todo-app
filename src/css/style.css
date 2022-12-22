@@ -1,0 +1,37 @@
+*{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+table{
+    border: 1px solid black;
+
+}
+
+input{
+    margin: 5px;
+    border: 1px solid black;
+    outline: none;
+}
+
+textarea{
+    outline: none;
+    border: 1px solid black;
+}
+
+.btn{
+    background-color: crimson;
+    padding: 6px;
+    width: 80px;
+    border-radius: 10px;
+    border: none;
+
+}
+
